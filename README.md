@@ -1,4 +1,4 @@
-<h1 align="center">Icones for Big Sur interface</h1>
+<h1 align="center">Icons for Big Sur interface</h1>
 
 Repository, where I put icons made for MacOS 11 Big Sur
 
